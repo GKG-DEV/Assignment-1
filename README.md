@@ -22,5 +22,4 @@ The goal of this project is to:
 
 ---
 
-##  Project Structure
 
